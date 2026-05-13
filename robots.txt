@@ -3,4 +3,4 @@ Disallow: /service-details.html
 Disallow: /portfolio-details.html
 Disallow: /terms.html
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://lahbibielyes.github.io/Portfolio1/sitemap.xml
