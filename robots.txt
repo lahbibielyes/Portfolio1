@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /service-details.html
+Disallow: /portfolio-details.html
+Disallow: /terms.html
+
+Sitemap: https://yourdomain.com/sitemap.xml
